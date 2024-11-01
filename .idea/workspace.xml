@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a3ab03-47b0-4e98-aa72-c0a2a20ea709" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="f1a3ab03-47b0-4e98-aa72-c0a2a20ea709" name="更改" comment="关于家用摄像头视频yoloV8的人形检测程序，主要是用于在视频中检测人员触摸，一旦有人员出没则直接保存相应的视频帧，然后上传到阿里网盘。">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +72,64 @@
       <option name="presentableId" value="Default" />
       <updated>1730427464336</updated>
     </task>
+    <task id="LOCAL-00001" summary="关于家用摄像头视频yoloV8的人形检测程序，主要是用于在视频中检测人员触摸，一旦有人员出没则直接保存相应的视频帧，然后上传到阿里网盘">
+      <option name="closed" value="true" />
+      <created>1730461151578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730461151578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="329b57ce-5647-4145-b2a6-089369f324a9" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="329b57ce-5647-4145-b2a6-089369f324a9">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="关于家用摄像头视频yoloV8的人形检测程序，主要是用于在视频中检测人员触摸，一旦有人员出没则直接保存相应的视频帧，然后上传到阿里网盘" />
+    <option name="LAST_COMMIT_MESSAGE" value="关于家用摄像头视频yoloV8的人形检测程序，主要是用于在视频中检测人员触摸，一旦有人员出没则直接保存相应的视频帧，然后上传到阿里网盘" />
   </component>
 </project>
